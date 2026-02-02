@@ -1,5 +1,3 @@
-# Windows 10 Booster
-
 Ultimate performance optimizer for low-end Windows 10 PCs.
 
 ## Features
